@@ -1,5 +1,2 @@
 # data-structure
-我又双叒叕准备学数据结构啦！（龟速更新中）
-
-**目录**
-1. [线性结构](./LinearList/README.md)
+数据结构与算法是息息相关的，该 `repo` 已合并至 [yuchiXiong/data-structure-and-algorithm](https://github.com/yuchiXiong/data-structure-and-algorithm)中。
